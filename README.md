@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://github.com/connectjibonkrishna/connectjibonkrishna/blob/main/connectjibonkrishna.png" alt="Jibon Krishna Roy Banner"/>
+  <img  src="https://github.com/connectjibonkrishna/connectjibonkrishna/blob/main/connectJibonKrishna.png" alt="Jibon Krishna Roy Banner"/>
 </p>
 
 <h1 align="center">Hey there, I'm Jibon Krishna Roy 👋</h1>
